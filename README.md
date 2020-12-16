@@ -4,7 +4,7 @@ resume
 
 Documentación 
 
-* [Link Documentación](http://tuxtor.shekalug.org/cv)
+* [Link Documentación](https://github.com/samsdial/docTheme/blob/master/resume.md)
 * [Referencias](https://github.com/tuxtor/resume/blob/master/resume.md)
 
 La Gallera 

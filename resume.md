@@ -1,9 +1,4 @@
----
-title: "Documentación Sitio Crm -- Sico"
-pagetitle: Crm Sico Theme Wordpress - LaGallera.
----
-
-### Developer Front End SemiSenior
+#### Crm Sico Theme Wordpress - LaGallera.
 
 
 Personal Details
