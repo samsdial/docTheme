@@ -14,8 +14,8 @@ Sicominteme es un desarrollo php basado en la libreria UnderStrap que proporcion
 
 Contenido del zip
 ---------
-![Image contenido zip]
-(https://github.com/samsdial/docTheme/blob/master/zip-crm-sico.png)
+![Image contenido zip](https://samsdial.github.io/docTheme/zip-crm-sico.png)
+
 
 Tememos una copia con fecha de diciembre 01 2020 a las 2:30 directamente del servidor con el siguiente contenido:
 
