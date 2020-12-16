@@ -10,7 +10,7 @@
 
 Descripción del tema wordpress
 ----------------
-Sicominteme es un desarrollo php basado en la libreria UnderStrap que proporciona un codigo base, php, sass, ademas de un estandar de organización de carpetas y archivos del tema para un mejor performace de un tema en wordpress, sicomintheme ya esta optimizado y minificado para producción.
+Sicominteme es un desarrollo php basado en la libreria UnderStrap que proporciona un codigo base, php, sass, ademas de un estandar de organización de carpetas y archivos del tema para un mejor performace de un tema en wordpress, sicomintheme ya está optimizado producción.
 
 Contenido del zip
 ---------
@@ -30,7 +30,7 @@ Wordpress -V 5.4.2
 
 Ajustes de escritura:
 
-- [x] Pagina estática
+- [x] Página estática
 	- [X] Portada (inicio u/o home) 
 
 Plugins
@@ -56,9 +56,9 @@ Recomendaciones
 ----------
 Proceso de installación Theme sico
 
-1. Proceda con el carge de los archivos del zip
+1. Proceda con el cargue de los archivos del zip
 1. Instale la base de datos con referencia del sitio (tenga encuenta url, user y password de la misma)
-1. Intente loguearse (los usuarios activos los adjuto en el correo )
+1. Intente ingresar al administrador (los usuarios activos los adjuto en el correo )
 1. proceda a la configuración
 	- Seleccione el tema - __sicomintheme__
 	- Activie los plugins instalados en worpress
@@ -66,13 +66,13 @@ Proceso de installación Theme sico
 
 	>	Ajustes de escritura:
 
-		- [x] Pagina estática
+		- [x] Página estática
 			- [X] Portada (inicio u/o home) 
-	- Revise la pagina
+	- Revise la url del sitio en producción Eje: (https://crm-sico.com)
 	
 Tenga en cuenta que es una langing page, no tiene paginas internar solo el formulario / y la respuesta del formulario
 
-** Revise la configuración de contact-form-7
+** Revise la configuración de contact-form-7 (datos, mensajes de envio)
 
 
 
